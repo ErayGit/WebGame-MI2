@@ -1,0 +1,8 @@
+{
+  "name": "WebGame-MI2",
+  "version": "1.0.0",
+  "dependencies": {
+    "babel-eslint": "^10.1.0",
+    "phaser": "^3.60.0"
+  }
+}
